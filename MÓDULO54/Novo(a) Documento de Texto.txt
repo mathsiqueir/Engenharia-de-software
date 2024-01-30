@@ -1,0 +1,79 @@
+Aula Gravada 01: Linguagem e Técnicas de Programação
+Data: 12/10
+Horário: 20h10 - 21h00 (Horário de Brasília) 
+Assunto: Conceitos Iniciais
+Link: Clique aqui!!! ou copie e cole o link a seguir no navegador # https://www.youtube.com/watch?v=v85qGMaryx0
+
+
+
+
+Aula ao vivo 02: Linguagem e Técnicas de Programação I
+Data: 19/10
+Horário: 20h10 - 21h00 (Horário de Brasília) 
+Assunto: Conceitos Iniciais e Estrutura Condicional
+Link: Clique aqui!!! ou copie e cole o link a seguir no navegador https://youtube.com/live/h3oeM3iXx8U 
+
+
+
+
+Aula ao vivo 03: Linguagem e Técnicas de Programação 
+Data: 26/10
+Horário: 20h10 - 21h00 (Horário de Brasília) 
+Assunto: Estruturas de Repetição
+Link: Clique aqui ou copie e cole o link a seguir no navegador https://youtube.com/live/gRhol5b0OzA 
+
+
+
+Aula Gravada 04: Linguagem e Técnicas de Programação 
+Data: 02/11
+Horário: 20h10 - 21h00 (Horário de Brasília) 
+Assunto: Estruturas de Repetição
+Link: Clique aqui!!! ou copie e cole o link a seguir no navegador  https://youtu.be/BD8tem12zCI
+
+
+
+Aula ao vivo 05: Linguagem e Técnicas de Programação 
+Data: 09/11
+Horário: 20h10 - 21h00 (Horário de Brasília) 
+Assunto: Vetores, Strings, Matrizes e Structs
+Link: Clique aqui ou copie e cole o link a seguir no navegador https://youtube.com/live/3F5Q4Y_GV6U 
+
+
+
+Aula ao vivo 06: Linguagem e Técnicas de Programação 
+Data: 16/11
+Horário: 20h10 - 21h00
+ (Horário de Brasília) 
+Assunto: Vetores, Strings, Matrizes e Structs
+Link: Clique aqui ou copie e cole o link a seguir no navegador https://youtube.com/live/frhSMa4NkYQ 
+
+
+Aula ao vivo 07: Linguagem e Técnicas de Programação 
+Data: 23/11
+Horário: 20h10 - 21h00 (Horário de Brasília) 
+Assunto: Vetores, Strings, Matrizes e Structs
+Link: Clique aqui ou copie e cole o link a seguir no navegador https://youtube.com/live/McNQ62hsaHs 
+
+
+Aula ao vivo 08: Linguagem e Técnicas de Programação 
+Data: 30/11
+Horário: 20h10 - 21h00 (Horário de Brasília) 
+Assunto: Funções e Arquivos
+Link: Clique aqui ou copie e cole o link a seguir no navegador https://youtube.com/live/FzxMpkoIcEg 
+
+
+Aula ao vivo 09: Linguagem e Técnicas de Programação 
+Data: 07/12
+Horário: 20h10 - 21h00 (Horário de Brasília) 
+Assunto: Funções e Arquivos
+Link: Clique aqui ou copie e cole o link a seguir no navegador https://youtube.com/live/wK6lhoxfu6A 
+
+
+Aula Gravada 10: Linguagem e Técnicas de Programação 
+Data: 14/12
+Horário: 20h10 - 21h00 (Horário de Brasília) 
+Assunto: Resolução de Exercício de Programação
+Link: Clique aqui ou copie e cole o link a seguir no navegador https://youtu.be/OX49gG54n6s 
+
+
+Link Reserva: Caso de algum problema com o link principal da aula, iremos entrar neste li

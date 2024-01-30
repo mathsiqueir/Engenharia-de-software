@@ -1,0 +1,99 @@
+Aula ao vivo 01 [GRAVADA - FERÍADO]: Algoritmos e Lógica de Programação
+Data: 12/10 (AULA JÁ ESTÁ DISPONÍVEL NO AMBIENTE)
+Link: clique aqui!!! ou copie e cole o link a seguir no navegador https://www.youtube.com/watch?v=Mem2IEHRlRc
+
+Conteúdo: Introdução a Lógica de Programação
+Tópicos a serem discutidos:
+- Estrutura de um algoritmo sequencial
+- Variáveis, expressões, atribuição, entrada e saída de dados
+- Construindo algoritmos
+
+Unidade:  I
+Aula ao vivo 02: Algoritmos e Lógica de Programação
+Data: 19/10
+Horário: 19h00 - 19h50 (Horário de Brasília)
+Link: Clique aqui ou copie e cole o link a seguir no navegador https://www.youtube.com/watch?v=vLrmbdELxCE
+
+Conteúdo: Resolução de Exercícios
+Tópicos a serem discutidos:
+- Estrutura Sequencial
+
+Unidade:  I
+Aula ao vivo 03: Algoritmos e Lógica de Programação
+Data: 26/10
+Horário: 19h00 - 19h50 (Horário de Brasília)
+Link: Clique aqui ou copie e cole o link a seguir no navegador https://www.youtube.com/watch?v=NL7J4Fw9M1M
+
+Conteúdo: Desvio de fluxo
+Tópicos a serem discutidos:
+- Estruturas de Decisão
+- Estruturas de Repetição
+ 
+
+Unidade:  I, II e III
+Aula ao vivo 04 [GRAVADA - FERÍADO]: Algoritmos e Lógica de Programação
+Data: 02/11
+Horário: 19h00 - 19h50 (Horário de Brasília)
+Link: Clique aqui ou copie e cole o link a seguir no navegador https://www.youtube.com/watch?v=rUQz_JN-2w8
+
+Conteúdo: Resolução de Exercícios
+    Tópicos a serem discutidos:
+    - Estruturas de Decisão
+    - Estruturas de Repetição
+     
+
+Unidade:  I, II e III
+Aula ao vivo 05: Algoritmos e Lógica de Programação
+Data: 09/11
+Horário: 19h00 - 19h50 (Horário de Brasília)
+Link: Clique aqui ou copie e cole o link a seguir no navegador https://www.youtube.com/watch?v=NTrF2NOn9FM
+
+Conteúdo: Avançando em lógica de programação
+Tópicos a serem discutidos:
+- Estruturas de Repetição
+- Vetores
+
+
+Unidade:  Unidades I, II, III e IV do livro
+Aula ao vivo 06: Algoritmos e Lógica de Programação
+Data: 16/11
+Horário: 19h00 - 19h50 (Horário de Brasília)
+Link: Clique aqui ou copie e cole o link a seguir no navegador https://www.youtube.com/watch?v=UAmJugWJFFE
+
+Conteúdo: Resolução de Exercícios
+Tópicos a serem discutidos:
+    - Estruturas de Repetição
+    - Vetores
+
+
+Unidade:  Unidades I, II, III e IV do livro
+Aula ao vivo 07: Algoritmos e Lógica de Programação
+Data: 23/11
+Horário: 19h00 - 19h50 (Horário de Brasília)
+Link: Clique aqui ou copie e cole o link a seguir no navegador https://www.youtube.com/watch?v=fbOg4TIkvZE
+
+Conteúdo: Modularização de algoritmos
+Tópicos a serem discutidos:
+- Funções e recursividade
+
+
+Unidade:  Unidades I, II, III, IV e V do livro
+Aula ao vivo 08: Algoritmos e Lógica de Programação
+Data: 30/11
+Horário: 19h00 - 19h50 (Horário de Brasília)
+Link: Clique aqui ou copie e cole o link a seguir no navegador https://www.youtube.com/watch?v=wfdSBr8MKgY
+
+Resolução de Exercícios    
+    Tópicos a serem discutidos:
+- Matrizes
+- Registros    
+
+Unidade:  Unidades I, II, III e IV do livro
+Aula ao vivo 09: Algoritmos e Lógica de Programação
+Data: 07/12
+Horário: 19h00 - 19h50 (Horário de Brasília)
+Link: Clique aqui ou copie e cole o link a seguir no navegador https://www.youtube.com/watch?v=MvairNvWChY
+
+Conteúdo: Revisão    
+    
+Unidade:  Unidades I, II, III, IV e V do livro
